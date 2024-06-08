@@ -82,3 +82,14 @@ This will run the server by default on port 8000. The API can be queried using a
     -H "Content-Type: application/json" \
     -d '{"path": "/Users/<username>/Downloads/", "instruction": "string", "incognito": false}'
    ```
+
+## Start the "LlamaFS" electron app
+
+  ```
+  cd electron-react-app
+  npm i
+  npm start
+  ```
+## How To use the LlamaFS app
+
+TBD
